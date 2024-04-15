@@ -22,6 +22,10 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Log.d("==>","Injera Mmmm");
                 Intent intent = new Intent(MainActivity.this, MainActivity2.class);
+                /*intent.putExtra("Gabriel", "1");
+                startActivity(intent);*/
+                intent.putExtra("name", "Gabriel"); // Optional
+                intent.putExtra("number", 1); // Optional
                 startActivity(intent);
             }
         });
