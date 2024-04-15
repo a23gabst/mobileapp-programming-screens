@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Screens</string>
     <string name="app_button">Gå till nästa sida!</string>
+    <string name="app_next_side">Välkommen till andra sidan!</string>
 </resources>
