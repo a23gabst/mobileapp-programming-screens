@@ -40,3 +40,7 @@ captures/
 
 # Other
 *.zip
+/wrapper/dists/gradle-6.7.1-bin/bwlcbys1h7rz3272sye1xwiv6/
+/native/
+/daemon/6.7.1/
+/caches/
